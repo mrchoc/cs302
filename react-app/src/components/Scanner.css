@@ -1,0 +1,5 @@
+.Scanner #reader {
+    width: 750px; /* Adjust as needed */
+    height: 750px; /* Adjust as needed */
+    margin: auto; /* Center the camera view */
+  }
