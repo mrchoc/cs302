@@ -4,7 +4,7 @@ import Scanner2 from './components/Scanner2';
 const App = () => {
   return (
     <div>
-      <Scanner2/>
+      <Scanner/>
     </div>
   )
 }
